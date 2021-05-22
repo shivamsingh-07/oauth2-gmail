@@ -1,0 +1,9 @@
+{
+    "email": "",
+    "client_id": "",
+    "client_secret": "",
+    "scope": "https://www.googleapis.com/auth/gmail.send",
+    "code": "",
+    "refresh_token": "",
+    "access_token": ""
+}
